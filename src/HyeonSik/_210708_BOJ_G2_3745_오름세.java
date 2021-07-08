@@ -23,6 +23,7 @@ public class _210708_BOJ_G2_3745_오름세 {
 				if (lis.isEmpty() || lis.get(lis.size() - 1) < num) {
 					lis.add(num);
 				} else {
+					// 이분 탐색
 					int left = 0, right = lis.size() - 1;
 					while (left < right) {
 						int mid = (left + right) / 2;
@@ -31,6 +32,7 @@ public class _210708_BOJ_G2_3745_오름세 {
 						else
 							left = mid + 1;
 					}
+					// 탐색된 값 교체
 					lis.set(right, num);
 				}
 			}
