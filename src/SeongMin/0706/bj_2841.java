@@ -1,4 +1,3 @@
-package study0706;
 
 import java.util.Scanner;
 import java.util.Stack;
