@@ -1,6 +1,6 @@
 # 백준
 
-## 2021-07-06
+## 2021-07-06 : 스택, 큐, 완전 탐색
 
 ### 12764. 싸지방에 간 준하
 
@@ -26,8 +26,9 @@
 
 > 출처 : https://www.acmicpc.net/problem/2841
 
+<br>
 
-## 2021-07-08
+## 2021-07-08 : 정렬, 이분 탐색
 
 ### 2878. 캔디캔디
 
@@ -52,3 +53,115 @@
   - ### *정렬, DP*
 
 > 출처 : https://www.acmicpc.net/problem/1744
+
+<br>
+
+
+
+## 2021-07-12 : 구현, 그리디
+
+### 13904. 과제
+
+- ### G3
+
+  - ### *그리디*
+
+> 출처 : https://www.acmicpc.net/problem/13904
+
+### 1092. 배
+
+- ### G5
+
+  - ### *그리디, 정렬*
+
+> 출처 : https://www.acmicpc.net/problem/1092
+
+<br>
+
+
+
+## 2021-07-13 : BFS, DFS
+
+### 16947. 서울 지하철 2호선
+
+- ### G3
+
+  - ### *BFS, DFS*
+
+> 출처 : https://www.acmicpc.net/problem/16947
+
+### 1240. 노드사이의 거리
+
+- ### G4
+
+  - ### *BFS*
+
+> 출처 : https://www.acmicpc.net/problem/1240
+
+### 16174. 점프왕 쩰리 (Large)
+
+- ### G5
+
+  - ### *BFS*
+
+> 출처 : https://www.acmicpc.net/problem/16174
+
+<br>
+
+
+
+## 2021-07-15 : 문자열, 분할정복
+
+### 12878. Blocks
+
+- ### G4
+
+  - ### *분할 정복, 수학*
+
+> 출처 : https://www.acmicpc.net/problem/12878
+
+### 1013. Contact
+
+- ### G5
+
+  - ### *구현, 오토마타*
+
+> 출처 : https://www.acmicpc.net/problem/1013
+
+### 14600. 샤워실 바닥 깔기 (Small)
+
+- ### G5
+
+  - ### *백트래킹*
+
+> 출처 : https://www.acmicpc.net/problem/14600
+
+<br>
+
+## 2021-07-16 : 백트래킹, LCS
+
+### 1958. LCS 3
+
+- ### G3
+
+  - ### *LCS, DP*
+
+> 출처 : https://www.acmicpc.net/problem/1958
+
+### 1248. 맞춰봐
+
+- ### G3
+
+  - ### *백트래킹*
+
+> 출처 : https://www.acmicpc.net/problem/1248
+
+### 2661. 좋은수열
+
+- ### G4
+
+  - ### *백트래킹*
+
+> 출처 : https://www.acmicpc.net/problem/2661
+
+<br>
