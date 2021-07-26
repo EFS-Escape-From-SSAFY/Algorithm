@@ -37,6 +37,7 @@ public class bj_17453 {
             ArrayList<Integer> subset = new ArrayList<>();
             for (int j = 0; j < m; j++) {
                 if ((i & 1 << j) > 0) {
+                    System.out.println(j);
                     subset.add(j);
                 }
             }
