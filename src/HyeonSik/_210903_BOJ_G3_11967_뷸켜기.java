@@ -2,7 +2,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
@@ -17,7 +16,6 @@ public class _210903_BOJ_G3_11967_뷸켜기 {
 		int M = Integer.parseInt(st.nextToken());
 		boolean[][] visited = new boolean[N + 1][N + 1];
 		boolean[][] isTurnOn = new boolean[N + 1][N + 1];
-		HashSet<Pos> set = new HashSet<>();
 		ArrayList<Pos>[][] map = new ArrayList[N + 1][N + 1];
 		for (int y = 1; y <= N; y++)
 			for (int x = 1; x <= N; x++)
