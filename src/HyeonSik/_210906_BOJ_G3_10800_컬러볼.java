@@ -32,7 +32,7 @@ public class _210906_BOJ_G3_10800_컬러볼 {
 			sizes[ball.size] += ball.size;
 
 			scores[ball.index] = sum - colors[ball.color] - sizes[ball.size] + ball.size;
-			
+
 			if (index != 0 && balls[index - 1].color == ball.color && balls[index - 1].size == ball.size)
 				scores[ball.index] = scores[balls[index - 1].index];
 		}
